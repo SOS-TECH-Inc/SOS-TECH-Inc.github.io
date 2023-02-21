@@ -1422,10 +1422,36 @@ section {
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
 }
-
+.form-group{
+   font-size: 3vh;
+  border-color: blue;
+  font-family: cursive;
+  background-image: url('https://i0.wp.com/gdcindia.co.in/wp-content/uploads/2019/03/contact-us-background.jpg?ssl=1');
+  border-radius: 22px;
+  cursor:pointer;
+}
+.form-control{
+  font-size: 3vh;
+  border-color: blue;
+  font-family: cursive;
+  background-image: url('https://i0.wp.com/gdcindia.co.in/wp-content/uploads/2019/03/contact-us-background.jpg?ssl=1');
+  border-radius: 22px;
+  cursor:pointer;
+}
+.form-group col-md-6{
+  font-size: 3vh;
+  border-color: blue;
+  font-family: cursive;
+  background-image: url('https://i0.wp.com/gdcindia.co.in/wp-content/uploads/2019/03/contact-us-background.jpg?ssl=1');
+  border-radius: 22px;
+  cursor:pointer;
+}
+}
+  
+}
 .contact .info i {
   font-size: 20px;
-  color: #47b2e4;
+   color: rgb(89, 0, 255);
   float: left;
   width: 44px;
   height: 44px;
